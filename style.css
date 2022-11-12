@@ -1,0 +1,28 @@
+.titulo1{
+    background-color: rgb(17, 205, 238);
+    font-size: 2rem;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    font-family: 'Indie Flower', cursive;
+}
+.titulo2{
+    font-family: 'Caveat', cursive   
+}
+.titulo3{
+    font-family: 'Teko', sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(17, 205, 238);
+    color: azure;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://c.tenor.com/PFD0FUKcWg0AAAAC/escuchar-escucha.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
