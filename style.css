@@ -24,5 +24,34 @@ button{
 body{
     background-image: url(https://c.tenor.com/PFD0FUKcWg0AAAAC/escuchar-escucha.gif);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
+    background-size: 40%;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border:1px solid;
+    text-align: center;
+}
+.table th{
+    background-color:rgb(17, 205, 238);
+    color:white
+}
+.table td:hover{
+    background-color: rgb(17, 205, 238);
+    color:azure
+}
+.table tr{
+    background-color: rgb(114, 108, 108);
+    color: azure;
+    font-family: 'Teko', sans-serif;
+}
+caption{
+    font-family: 'Teko', sans-serif;
+    font-size: 12px;
+}
+.table th:hover{
+    background-color: black;
+    color: white;
 }
